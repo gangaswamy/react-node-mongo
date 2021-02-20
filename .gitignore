@@ -1,0 +1,11 @@
+# include everything except this directory
+node/node_modules/
+node/package-lock.json
+node/log/
+node/nohup
+react/node_modules/
+react/package-lock.json
+react/log/
+react/nohup
+react/build/
+
